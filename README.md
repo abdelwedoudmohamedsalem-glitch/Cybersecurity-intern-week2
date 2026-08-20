@@ -501,15 +501,15 @@ This project represents another step in my journey toward becoming a cybersecuri
 ---
 ##  Evidences Collected
 
-![](evidences/whois.png)
-![](evidences/whatweb.png)
-![](evidences/curl-i.png)
-![](evidences/dnsrecon-d.png)
-![](evidences/nslookup.png)
-![](evidences/theHarvester.png)
-![](evidences/wafw00f.png)
-![](evidences/zenmapOUT.png)
-![](evidences/zenmapGUI.png)
+![](evidence/whois.png)
+![](evidence/whatweb.png)
+![](evidence/curl-i.png)
+![](evidence/dnsrecon-d.png)
+![](evidence/nslookup.png)
+![](evidence/theHarvester.png)
+![](evidence/wafw00f.png)
+![](evidence/zenmapOUT.png)
+![](evidence/zenmapGUI.png)
 
 
 ---
