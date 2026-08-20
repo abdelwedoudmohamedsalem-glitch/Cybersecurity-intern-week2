@@ -1,0 +1,9 @@
+nslookup networkwalks.com
+Server:         8.8.4.4
+Address:        8.8.4.4#53
+
+Non-authoritative answer:
+Name:   networkwalks.com
+Address: 192.232.216.135
+
+                          
