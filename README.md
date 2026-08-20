@@ -499,7 +499,20 @@ Overall, this experience strengthened my practical skills in:
 This project represents another step in my journey toward becoming a cybersecurity professional.
 
 ---
+##  Evidences Collected
 
+![](evidences/whois.png)
+![](evidences/whatweb.png)
+![](evidences/curl-i.png)
+![](evidences/dnsrecon-d.png)
+![](evidences/nslookup.png)
+![](evidences/theHarvester.png)
+![](evidences/wafw00f.png)
+![](evidences/zenmapOUT.png)
+![](evidences/zenmapGUI.png)
+
+
+---
 ## 👤 Author
 
 **Mohamed Salem Abdel Wedoud**
